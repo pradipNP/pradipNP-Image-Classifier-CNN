@@ -1,5 +1,17 @@
 # Image Classifier using CNN
 
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : PRADEEP KUMAR KOHAR
+
+*INTERN ID* : CODHC29
+
+*DOMAIN* : MACHINE LEARNING
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTOSH
+
 This project is a Convolutional Neural Network (CNN)-based image classifier built using TensorFlow and Keras. It is trained on the CIFAR-10 dataset and can classify images into 10 categories.
 
 ## 🚀 Project Overview
